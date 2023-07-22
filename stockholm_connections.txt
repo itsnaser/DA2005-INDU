@@ -1,0 +1,157 @@
+#LINE 10
+Hjulsta,Tensta,10,S
+Tensta,Rinkeby,10,S
+Rinkeby,Rissne,10,S
+Rissne,Duvbo,10,S
+Duvbo,Sundbyberg,10,S
+Sundbyberg,Solna strand,10,S
+Solna strand,Huvudsta,10,S
+Huvudsta,Västra skogen,10,S
+Västra skogen,Stadshagen,10,S
+Stadshagen,Fridhemsplan,10,S
+Fridhemsplan,Rådhuset,10,S
+Rådhuset,T-Centralen,10,S
+T-Centralen,Kungsträdgården,10,S
+
+#LINE 11
+Akalla,Husby,11,S
+Husby,Kista,11,S
+Kista,Hallonberg,11,S
+Hallonberg,Näckrosen,11,S
+Näckrosen,Solna,11,S
+Solna,Västra skogen,11,S
+Västra skogen,Stadshagen,11,S
+Stadshagen,Fridhemsplan,11,S
+Fridhemsplan,Rådhuset,11,S
+Rådhuset,T-Centralen,11,S
+T-Centralen,Kungsträdgården,11,S
+
+#LINE 13
+Ropsten,Gärdet,13,S
+Gärdet,Karlaplan,13,S
+Karlaplan,Östermalmstorg,13,S
+Östermalmstorg,T-Centralen,13,S
+T-Centralen,Gamla stan,13,S
+Gamla stan,Slussen,13,S
+Slussen,Mariatorget,13,S
+Mariatorget,Zinkensdamm,13,S
+Zinkensdamm,Hornstull,13,S
+Hornstull,Liljeholmen,13,S
+Liljeholmen,Aspudden,13,S
+Aspudden,Örnsberg,13,S
+Örnsberg,Axelsberg,13,S
+Axelsberg,Mälarhöjden,13,S
+Mälarhöjden,Bredäng,13,S
+Bredäng,Sätra,13,S
+Sätra,Skärholmen,13,S
+Skärholmen,Vårberg,13,S
+Vårberg,Vårby gård,13,S
+Vårby gård,Masmo,13,S
+Masmo,Fittja,13,S
+Fittja,Alby,13,S
+Alby,Hallunda,13,S
+Hallunda,Norsborg,13,S
+
+#LINE 14
+Fruängen,Västertorp,14,N
+Västertorp,Hägerstensåsen,14,N
+Hägerstensåsen,Telefonplan,14,N
+Telefonplan,Midsommarkransen,14,N
+Midsommarkransen,Liljeholmen,14,N
+Liljeholmen,Hornstull,14,N
+Hornstull,Zinkensdamm,14,N
+Zinkensdamm,Mariatorget,14,N
+Mariatorget,Slussen,14,N
+Slussen,Gamla stan,14,N
+Gamla stan,T-Centralen,14,N
+T-Centralen,Östermalmstorg,14,N
+Östermalmstorg,Stadion,14,N
+Stadion,Tekniska högskolan,14,N
+Tekniska högskolan,Universitetet,14,N
+Universitetet,Bergshamra,14,N
+Bergshamra,Danderyds sjukhus,14,N
+Danderyds sjukhus,Mörby centrum,14,N
+
+#LINE 17
+Skarpnäck,Bagarmossen,17,N
+Bagarmossen,Kärrtorp,17,N
+Kärrtorp,Björkhagen,17,N
+Björkhagen,Hammarbyhöjden,17,N
+Hammarbyhöjden,Skärmarbrink,17,N
+Skärmarbrink,Gullmarsplan,17,N
+Gullmarsplan,Skanstull,17,N
+Skanstull,Medborgarplatsen,17,N
+Medborgarplatsen,Slussen,17,N
+Slussen,Gamla stan,17,N
+Gamla stan,T-Centralen,17,N
+T-Centralen,Hötorget,17,N
+Hötorget,Rådmansgatan,17,N
+Rådmansgatan,Odenplan,17,N
+Odenplan,S:t Eriksplan,17,N
+S:t Eriksplan,Fridhemsplan,17,N
+Fridhemsplan,Thorildsplan,17,N
+Thorildsplan,Krisineberg,17,N
+Krisineberg,Alvik,17,N
+Alvik,Stora mossen,17,N
+Stora mossen,Abrahamsberg,17,N
+Abrahamsberg,Brommaplan,17,N
+Brommaplan,Åkeshov,17,N
+
+#LINE 18
+Farsta strand,Farsta,18,N
+Farsta,Hökarängen,18,N
+Hökarängen,Gubbängen,18,N
+Gubbängen,Tallkrogen,18,N
+Tallkrogen,Skogskyrkogården,18,N
+Skogskyrkogården,Sandsborg,18,N
+Sandsborg,Blåsut,18,N
+Blåsut,Skärmarbrink,18,N
+Skärmarbrink,Gullmarsplan,18,N
+Gullmarsplan,Skanstull,18,N
+Skanstull,Medborgarplatsen,18,N
+Medborgarplatsen,Slussen,18,N
+Slussen,Gamla stan,18,N
+Gamla stan,T-Centralen,18,N
+T-Centralen,Hötorget,18,N
+Hötorget,Rådmansgatan,18,N
+Rådmansgatan,Odenplan,18,N
+Odenplan,S:t Eriksplan,18,N
+S:t Eriksplan,Fridhemsplan,18,N
+Fridhemsplan,Thorildsplan,18,N
+Thorildsplan,Krisineberg,18,N
+Krisineberg,Alvik,18,N
+
+#LINE 19
+Hagsätra,Rågsved,19,N 
+Rågsved,Högdalen,19,N
+Högdalen,Bandhagen,19,N
+Bandhagen,Stureby,19,N
+Stureby,Svedmyra,19,N
+Svedmyra,Sockenplan,19,N
+Sockenplan,Enskedegård,19,N
+Enskedegård,Globen,19,N
+Globen,Gullmarsplan,19,N
+Gullmarsplan,Skanstull,19,N
+Skanstull,Medborgarplatsen,19,N
+Medborgarplatsen,Slussen,19,N
+Slussen,Gamla stan,19,N
+Gamla stan,T-Centralen,19,N
+T-Centralen,Hötorget,19,N
+Hötorget,Rådmansgatan,19,N
+Rådmansgatan,Odenplan,19,N
+Odenplan,S:t Eriksplan,19,N
+S:t Eriksplan,Fridhemsplan,19,N
+Fridhemsplan,Thorildsplan,19,N
+Thorildsplan,Krisineberg,19,N
+Krisineberg,Alvik,19,N
+Alvik,Stora mossen,19,N
+Stora mossen,Abrahamsberg,19,N
+Abrahamsberg,Brommaplan,19,N
+Brommaplan,Åkeshov,19,N
+Åkeshov,Ängbyplan,19,N
+Ängbyplan,Islandstorget,19,N
+Islandstorget,Blackberg,19,N
+Blackberg,Råcksta,19,N
+Råcksta,Vällingby,19,N
+Vällingby,Johannelund,19,N
+Johannelund,Hässelby gård,19,N

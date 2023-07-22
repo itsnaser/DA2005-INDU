@@ -1,0 +1,9 @@
+A,B,blue,S
+B,C,blue,S
+C,D,blue,S
+X,Y,green,S
+Y,C,green,S
+C,Z,green,S
+C,O,purple,N
+X,Y,blue,S
+Y,A,green,S
