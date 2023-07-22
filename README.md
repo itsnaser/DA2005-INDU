@@ -116,4 +116,4 @@ solution to Task 1 before you try implementing Task 2.
 
 You should also use classes and objects in your program to a meaningful extent. You can solve the task without
 using object-oriented programming, but one of the grade-raising criteria requires that you organize your code
-in an object-oriented way, with the majority of your code inside of class denitions (see the general instructions).
+in an object-oriented way, with the majority of your code inside of class definitions (see the general instructions).
