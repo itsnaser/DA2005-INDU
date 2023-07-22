@@ -18,7 +18,7 @@ We now describe the details of the model. Every train is associated with a line,
 stations on the same line. When a train reaches either the northernmost or southernmost station on its line, it
 turns around and goes back.
 At the start of the program, we will generate n trains, each randomly assigned a station and a direction (north
-or south). If a train is assigned to one of the nal stations, its direction is predetermined: for example, a train
+or south). If a train is assigned to one of the final stations, its direction is predetermined: for example, a train
 at the northernmost station will always be heading south. In this model, we allow multiple trains at the same
 station at the same time (imagine an infinite number of tracks). The number of trains n is therefore independent
 of the number of stations, and all trains run independently of one another.
@@ -31,10 +31,10 @@ Figure 1: Two maps of possible train lines (with different lines in different co
 forth on only one line. A station can connect to several lines (for example station C in Map 1 or station X in
 Map 2).
 Now suppose instead that Bobby is on the green line at station C in Map 1 (fig. 1), again traveling southward
-at time t. Station C has a southern neighbor that is a nal stop. In this case, the two possibilities for Bobby at time
+at time t. Station C has a southern neighbor that is a final stop. In this case, the two possibilities for Bobby at time
 t + 1 are more distinctive: either Bobby arrives at the final stop Z and then changes direction from southward to
 northward, or Bobby remains at station C still facing southward.
-Each train station is assigned a specic probability P ∈ [0, 1] of causing a delay. The simulation advances
+Each train station is assigned a specific probability P ∈ [0, 1] of causing a delay. The simulation advances
 one step at a time. In each round, the user should be able to ask where train k (where k is between 1 and n) is
 located and in which direction it is traveling.
 
@@ -84,7 +84,7 @@ in the general instructions in INDU—Individual Assignment in Programming.
 • Obs: the solution must work for maps and parameters other than those shown in the examples above.
 
 • The task should be completed without importing nonstandard libraries (that is, any libraries that must be
-manually installed). Ask the instructor if you are unsure if you can use a specic library. Describe all the
+manually installed). Ask the instructor if you are unsure if you can use a specific library. Describe all the
 libraries you use in your project report.
 
 • You do not need to anticipate all possible situations, for example every case of input data (there are many),
