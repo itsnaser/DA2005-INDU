@@ -68,7 +68,7 @@ Obs: the program should work for any input files in this format, not only the ex
 free to create your own rail network and include it with your submission
 
 ## Fig.1
-![alt text](https://i.ibb.co/7YbMwKf/Sk-rmbild-2023-07-22-121153.jpg)
+![alt text](https://i.ibb.co/NWbgwT0/metro.jpg)
 
 ## Task 1
 At each stage of the model, the program should ask the user to make a choice, where the choices are to:
